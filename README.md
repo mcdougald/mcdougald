@@ -193,3 +193,5 @@ Here are some of my notable projects:
 Feel free to reach out if you want to collaborate or just have a chat about web development, app development, generative AI, or DevOps!
 
 📫 Email: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com)
+
+<p align=center> <sub> Created with 🫀 and 🧠 by Trevor McDougald &nbsp;&nbsp;&nbsp; </sub> </p>
