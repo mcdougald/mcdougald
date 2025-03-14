@@ -5,14 +5,14 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
 
 
-- 🔭 Currently working at Amazon as a Full-Stack **SDE II** (L5). Started in August 2020.
+- 🔭 Currently work at Amazon as a Full-Stack **SDE II** (L5). Started in August 2020.
 - 👯 Open to collaboration on Web Development, App Development, GenAI, ML, Cloud and DevOps projects.
 - 📫 Reach me at: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com) or via below profiles
 
 ----
 
 
-🔗 &nbsp;**Connect with me**
+## 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/trevormcdougald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/trevormcdougald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
