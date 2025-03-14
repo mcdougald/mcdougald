@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,py,js,nodejs,express,aws,tailwind,vue,materialui,spring,cpp,html,mysql,django,c,css,mongodb,threejs,fastapi,elixir,git,vscode,unity,codepen,postman,ps,atom,linux,regex)](https://skillicons.dev)
 
 
-<h3>Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 
 <h4 align="center">Frontend</h3>
 
