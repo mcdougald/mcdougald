@@ -22,7 +22,7 @@
   
 ----
 
-## 🏆 GitHub Overview
+## 🏆 GitHub Overview <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mcdougald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### Summary
