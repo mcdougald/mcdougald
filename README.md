@@ -1,6 +1,6 @@
-### Hi there, I'm Trevor! 👋
+# Hi there, I'm Trevor! 👋
 
-⚡ Software Engineer passionate about Full Stack Development and Large Language Models (LLMs).
+⚡ I'm a Full-Stack Software Engieer with 6+ years experience in UI/UX, ML, enterprise data, and AWS. Passionate about open-source ECMAScript, TypeScript, and Python communities.
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
 
