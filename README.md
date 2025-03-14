@@ -2,6 +2,9 @@
 
 ⚡ Software Engineer passionate about Full Stack Development and Large Language Models (LLMs).
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
+
+
 - 🔭 Currently working on Full Stack development and LLMs.
 - 👯 Open to collaborating on Web Development, App Development, GenAI, and DevOps, Blockchain projects.
 - 📫 Reach me at: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com)
