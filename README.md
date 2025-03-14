@@ -2,12 +2,10 @@
 
 ⚡ I'm a Full-Stack Software Engieer with 6+ years experience in UI/UX, ML, enterprise data, and AWS. Passionate about open-source ECMAScript, TypeScript, and Python communities.
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
-
-
 - 🔭 Currently work at Amazon as a Full-Stack **SDE II** (L5). Started in August 2020.
 - 👯 Open to collaboration on Web Development, App Development, GenAI, ML, Cloud and DevOps projects.
 - 📫 Reach me at: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com) or via below profiles
+- [![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
 
 
 ## 🔗 &nbsp;**Connect with me**
@@ -47,6 +45,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
+
+<h3>Things I code with</h3>
+
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -73,7 +75,6 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-<h3>Things I code with</h3>
 <p>
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
@@ -82,7 +83,6 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
