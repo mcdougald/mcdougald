@@ -68,14 +68,32 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 <h4 align="center">Backend</h3>
-<p align="center">
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+  
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/-PyTorch-3B4252?style=flat&logo=pytorch&logoColor=BF616A)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-3B4252?style=flat&logo=tensorflow&logoColor=D08770)
+![MLflow Badge](https://img.shields.io/badge/-MLflow-3B4252?style=flat&logo=mlflow&logoColor=BF616A)
+![Scikit-Learn Badge](https://img.shields.io/badge/-Scikit--Learn-3B4252?style=flat&logo=scikit-learn&logoColor=88C0D0)
+![SciPy Badge](https://img.shields.io/badge/-SciPy-3B4252?style=flat&logo=scipy&logoColor=88C0D0)
+![SymPy Badge](https://img.shields.io/badge/-SymPy-3B4252?style=flat&logo=sympy&logoColor=8FBCBB)
+![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3B4252?style=flat&logo=matplotlib&logoColor=88C0D0)
+![Pandas Badge](https://img.shields.io/badge/-Pandas-3B4252?style=flat&logo=pandas&logoColor=B48EAD)
+![NumPy Badge](https://img.shields.io/badge/-NumPy-3B4252?style=flat&logo=numpy&logoColor=8FBCBB)
+![OpenCV Badge](https://img.shields.io/badge/-OpenCV-3B4252?style=flat&logo=opencv&logoColor=D08770)
+![NLTK Badge](https://img.shields.io/badge/-NLTK-3B4252?style=flat&logo=nltk&logoColor=88C0D0)
+![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3B4252?style=flat&logo=seaborn&logoColor=81A1C1)
+![Keras Badge](https://img.shields.io/badge/-Keras-3B4252?style=flat&logo=keras&logoColor=A3BE8C)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-3B4252?style=flat&logo=jupyter&logoColor=D08770)
+![Tableau Badge](https://img.shields.io/badge/-Tableau-3B4252?style=flat&logo=tableau&logoColor=88C0D0)
+![OpenAI Badge](https://img.shields.io/badge/-OpenAI-3B4252?style=flat&logo=openai&logoColor=BF616A)
+<!-- <p align="center">
+
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </a>
@@ -88,7 +106,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
     </a>
-</p>
+</p> -->
 
 <h4 align="center">Cloud & Hosting</h3>
 <p align="center">
@@ -99,6 +117,7 @@
   <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
     alt="docker" />
+    <img alt="Docker Compose" src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"
     alt="jenkins" />
    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white"
