@@ -49,13 +49,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub
+### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mcdougald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcdougald&theme=default)
 
-## ⚡ Streak
+
+### ⚡ Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mcdougald&theme=dark)](https://git.io/streak-stats)
 
-## 📊 Top Languages
+### 📊 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdougald&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
