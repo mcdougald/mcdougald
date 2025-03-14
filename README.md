@@ -4,9 +4,6 @@
 
 - 🔭 Currently work at Amazon as a Full-Stack **SDE II** (L5). Started in August 2020.
 - 👯 Open to collaboration on Web Development, App Development, GenAI, ML, Cloud and DevOps projects.
-- 📫 Reach me at: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com) or via below profiles
-- [![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
-
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -17,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge" />
   </a>
   <br><br>
-  <a href="https://medium.com/@sachin28"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+  <a href="https://medium.com/@mcdougald.job"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
 <!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-  <a href="https://www.linkedin.com/in/sa-chin//"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:sachin.profess0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+  <a href="https://linkedin.com/in/trevormcdougald"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:mcdougald.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/494882115360522275"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="TrevorMcDougald#6950" ></a>
   <a href="https://x.com/SachinTechie0"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
 </div>
 
