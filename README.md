@@ -8,6 +8,24 @@
 - [![Visits Badge](https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge)](https://trev.town)
 
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div align="center">
+  <a href="https://trev.town">
+  <img src="https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge" />
+  </a>
+  <br><br>
+  <a href="https://medium.com/@sachin28"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+<!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="https://www.linkedin.com/in/sa-chin//"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:sachin.profess0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+  <a href="https://x.com/SachinTechie0"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
+</div>
+
+
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/trevormcdougald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
