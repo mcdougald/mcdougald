@@ -66,7 +66,7 @@
   <img alt="github-snake" src="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg)
+<!-- [https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg) -->
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=react,ts,py,js,nodejs,express,aws,tailwind,vue,materialui,spring,cpp,html,mysql,django,c,css,mongodb,threejs,fastapi,elixir,git,vscode,unity,codepen,postman,ps,atom,linux,regex)](https://skillicons.dev)
