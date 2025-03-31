@@ -17,7 +17,7 @@
   <a href="https://medium.com/@mcdougald.job"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
 <!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://linkedin.com/in/trevormcdougald"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:mcdougald.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" style="margin-top: 8px" /></a>
+  <a href="mailto:mcdougald.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"" /></a>
   <a href="https://discordapp.com/users/494882115360522275"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="TrevorMcDougald#6950" ></a>
   <a href="https://x.com/SachinTechie0"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
 </div>
@@ -28,9 +28,9 @@
 <a href="https://dev.to/trevormcdougald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/trevormcdougald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5233908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="mailto:mcdougald.job@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white">
+<a href="mailto:mcdougald.job@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white" style="margin-top: 8px">
 <a href="https://instagram.com/trevormcdougald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/494882115360522275"><image src="https://img.shields.io/badge/Discord-%235662f6.svg?style=flat&logo=discord&logoColor=white" />
+<a href="https://discordapp.com/users/494882115360522275"><image src="https://img.shields.io/badge/Discord-%235662f6.svg?style=flat&logo=discord&logoColor=white" style="margin-top: 8px" />
 </a>
 </div>
 
