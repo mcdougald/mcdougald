@@ -6,16 +6,16 @@
 ![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-3.jpg)
 
 
-
-<div align="center">
 # Hi there, I'm Trevor! 👋
 
+<div align="center">
+
 ⚡ I'm a Full-Stack Software Engieer with 6+ years experience in UI/UX, ML, enterprise data, and AWS. **Passionate about open-source ECMAScript, TypeScript, and Python communities**.
+</div>
 
 - 🔭 Currently working at Amazon as a Full-Stack **SDE II** (L5). Started in August 2020.
 - 👯 Open to collaboration on Web Development, App Development, GenAI, ML, Cloud and DevOps projects.
 
-</div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
