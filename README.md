@@ -3,7 +3,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-2.jpg)
+![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-3.jpg)
 
 
 
