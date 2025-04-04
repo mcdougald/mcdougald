@@ -5,7 +5,7 @@
 
 ![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-3.jpg)
 
-<h1 aling="center">
+<h1 align="center">
    Hi there, I'm Trevor! 👋
 </h1>
 
