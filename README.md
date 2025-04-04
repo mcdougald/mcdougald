@@ -3,7 +3,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![github profile]([https://github.com/user-attachments/assets/7b417eb9-be62-40cc-a60f-e8c797f836ab](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-1.jpg))
+![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-1.jpg)
 
 
 
