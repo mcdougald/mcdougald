@@ -161,7 +161,7 @@
   <img src="https://img.shields.io/badge/Terraform-A252d3?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
