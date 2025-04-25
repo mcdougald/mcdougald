@@ -11,9 +11,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&pause=1500&color=F9C9B9&center=true&vCenter=true&width=1080&height=150&lines=Hi+there%2C+I'm+Trev+%F0%9F%91%8B%F0%9F%8F%BC;A+Passionate+Web+Dev" alt="Typing SVG" />
 
-<h1 align="center">
+<!-- <h1 align="center">
    Hi there, I'm Trevor! 👋
-</h1>
+</h1> -->
 
 
 <div align="center">
