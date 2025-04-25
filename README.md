@@ -256,6 +256,8 @@ Here are some of my notable projects:
 
 ## 💬 Get in Touch
 
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/mcdougald/mcdougald/issues/new?template=guestbook-entry.md">here</a>!</p>
+
 Feel free to reach out if you want to collaborate or just have a chat about web development, app development, generative AI, or DevOps!
 
 📫 Email: [mcdougald.job@gmail.com](mailto:mcdougald.job@gmail.com)
