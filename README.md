@@ -70,7 +70,7 @@
 
 <!-- [https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg) -->
 
-## 🛠 Skills
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="32"> Skills
 [![My Skills](https://skillicons.dev/icons?i=react,ts,py,js,nodejs,express,aws,tailwind,vue,materialui,spring,cpp,html,mysql,django,c,css,mongodb,threejs,fastapi,elixir,git,vscode,unity,codepen,postman,ps,atom,linux,regex)](https://skillicons.dev)
 
 
