@@ -5,6 +5,9 @@
 
 ![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-3.jpg)
 
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Trevor+%F0%9F%91%8B%F0%9F%8F%BC;Passionate+full-stack+software+engineer" alt="Typing SVG" />
+
+
 <h1 align="center">
    Hi there, I'm Trevor! 👋
 </h1>
