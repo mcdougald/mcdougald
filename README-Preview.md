@@ -5,7 +5,10 @@
 
 ![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-3.jpg)
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Trevor+%F0%9F%91%8B%F0%9F%8F%BC;Passionate+full-stack+software+engineer" alt="Typing SVG" />
+<!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Trevor+%F0%9F%91%8B%F0%9F%8F%BC;Passionate+full-stack+software+engineer" alt="Typing SVG" /> -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hi+there%2C+I'm+Trevor+%F0%9F%91%8B%F0%9F%8F%BC;Passionate+full-stack+software+engineer" alt="Typing SVG" />
+
 
 
 <h1 align="center">
