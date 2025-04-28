@@ -11,7 +11,7 @@
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=2&pause=1500&color=F9C9B9&center=true&vCenter=true&width=1080&height=150&lines=Hi+there%2C+I'm+Trev+%F0%9F%91%8B%F0%9F%8F%BC;A+Full-Stack+Dev" alt="Typing SVG" /> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&pause=150000&color=F9C9B9&center=true&vCenter=true&width=1080&height=100&lines=Hi+there%2C+I'm+Trev+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&pause=150000&color=F9C9B9&center=true&vCenter=true&width=1080&height=50&lines=Hi+there%2C+I'm+Trev+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&pause=1000&delay=3000&color=F9C9B9&center=true&vCenter=true&width=1080&height=50&lines=A+Full-Stack+Dev;Passion+for+DevOps" alt="Typing SVG" />
 
