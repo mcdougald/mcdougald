@@ -70,18 +70,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   
 ## <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> &nbsp;GitHub Overview
-### Summary
+### Summary 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcdougald&theme=default)
-
-### 📊 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdougald&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Technologies & Skills ------------------------------------------------------------------------------------------------------------------------------------ -->
