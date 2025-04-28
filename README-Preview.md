@@ -70,7 +70,6 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   
 ## <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> &nbsp;GitHub Overview
-### Summary 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcdougald&theme=default)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
