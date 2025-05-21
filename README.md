@@ -65,19 +65,19 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   
 ## <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> &nbsp;GitHub Overview
-### Trophies 🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcdougald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ### Trophies 🏆 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcdougald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcdougald&theme=default)
 
-### 📊 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdougald&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdougald&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
 <!-- [https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://github.com/mcdougald/mcdougald/blob/output/github-contribution-grid-snake.svg) -->
 
