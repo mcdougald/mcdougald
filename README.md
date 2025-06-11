@@ -70,7 +70,9 @@
 <!-- ### Trophies 🏆 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mcdougald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcdougald&theme=default)
+</div>
 
 <!-- ### 📊 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdougald&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
