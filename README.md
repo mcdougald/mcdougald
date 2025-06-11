@@ -42,15 +42,17 @@
 
 <div align="center">
   <a href="https://medium.com/@mcdougald.job"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+   <a href="https://dev.to/trevormcdougald"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=dev.to&logoColor=0A0209" alt="Dev.to Profile"></a>
 <!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://linkedin.com/in/trevormcdougald"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:mcdougald.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"" /></a>
   <a href="https://discordapp.com/users/494882115360522275"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="TrevorMcDougald#6950" ></a>
-  <a href="https://x.com/SachinTechie0"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
+  <a href="https://x.com/mcdougald"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
+   <a href="https://stackoverflow.com/users/5233908"><img src="https://img.shields.io/badge/StackOverflow-d5d5d5?style=for-the-badge&logo=stackoverflow&logoColor=0A0209" alt="StackOverflow Profile"></a>
 </div>
 
 
-<div align="center" style="align-items: center">
+<!--- <div align="center" style="align-items: center">
 <a href="https://dev.to/trevormcdougald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/trevormcdougald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5233908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
@@ -58,7 +60,7 @@
 <a href="https://instagram.com/trevormcdougald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/494882115360522275"><image src="https://img.shields.io/badge/Discord-%235662f6.svg?style=flat&logo=discord&logoColor=white" style="margin-top: 8px" />
 </a>
-</div>
+</div> -->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Github Overview ------------------------------------------------------------------------------------------------------------------------------------ -->
