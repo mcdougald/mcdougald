@@ -3,7 +3,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER1.jpg)
+![github profile](https://raw.githubusercontent.com/mcdougald/mcdougald/refs/heads/main/README_COVER-1.jpg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&pause=150000&color=F9C9B9&center=true&vCenter=true&width=1080&height=60&lines=Hi+there%2C+I'm+Trev+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
 
