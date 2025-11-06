@@ -23,7 +23,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-- 🔭 Currently working at Capital One as a **Sr Full-Stack SWE** (L5). Started in August 2020.
+- 🔭 Currently working at Capital One as a **Sr Full-Stack SWE** as of October 2025, after 5 years at Amazon.
 - 👯 Open to collaboration on Web Development, App Development, GenAI, ML, Cloud and DevOps projects.
 
 
