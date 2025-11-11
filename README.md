@@ -32,7 +32,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <a href="https://trev.town">
+  <a href="https://trev.fyi">
   <img src="https://komarev.com/ghpvc/?username=mcdougald&label=Profile%20views&color=red&style=for-the-badge" />
   </a>
 </div>
