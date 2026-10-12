@@ -17,7 +17,7 @@
 
 <div align="center">
 
-⚡ I'm a Full-Stack Software Engieer with 6+ years experience in UI/UX, ML, enterprise data, and AWS. **Passionate about open-source ECMAScript, TypeScript, and Python communities**.
+⚡ I'm a Full-Stack Software Engieer with + years experience in UI/UX, ML, enterprise data, and AWS. **Passionate about open-source ECMAScript, TypeScript, and Python communities**.
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
