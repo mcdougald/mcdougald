@@ -119,7 +119,7 @@ Here are some of my notable projects:
 
 * **a.amazon.dev:** [Showcases top NodeJS/Python packages internally in Amazon.](https://apoorv-x12.github.io/npm-stats-viz/)
 * **saas.recipes:** Tracks SaaS / TypeScript projects that are built in the open.
-* **trev.fyi:** Blog/Portfolio website hosted with NextJS
+* **[me.at](https://me.at):** Blog/Portfolio website hosted with NextJS
 
 ## 💬 Get in Touch
 
