@@ -41,7 +41,7 @@
 ## 🔗 &nbsp;**Connect with me**
 
 <div align="center">
-  <a href="https://trev.fyi"><img src="https://img.shields.io/badge/trev.fyi-d5d5d5?style=for-the-badge&logo=link&logoColor=0A0209" alt="trev.fyi"/></a>
+  <a href="https://me.at"><img src="https://img.shields.io/badge/me.at-d5d5d5?style=for-the-badge&logo=link&logoColor=0A0209" alt="me.at"/></a>
   <a href="https://medium.com/@mcdougald.job"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
    <a href="https://dev.to/trevormcdougald"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=dev.to&logoColor=0A0209" alt="Dev.to Profile"></a>
 <!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
